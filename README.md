@@ -1,4 +1,4 @@
-# React Components 
+# Cheat Sheet - React Components 
 
 There are two main classifications of components. **Static** and **Dynamic**. 
 
